@@ -23,8 +23,8 @@ class UserSeeder extends Seeder
         $users = [
             [
                 'id' => 2,
-                'name' => 'YOUR NAME',
-                'email' => 'your.name@l7api.test',
+                'name' => 'Lanang Wisnugiri',
+                'email' => 'lanang.wisnugiri@l7api.test',
                 'email_verified_at' => '2020-01-01 00:00:01',
                 'password' => Hash::make('Secret1'),
             ],
